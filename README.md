@@ -40,7 +40,7 @@ The app features a split-view design with file list on the left and preview on t
 ### Run from Source
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/batch-file-renamer.git
+git clone https://github.com/nihilist91/batch-file-renamer.git
 cd batch-file-renamer
 
 # Install dependencies
